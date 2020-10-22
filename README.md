@@ -1,2 +1,2 @@
-# git_tutorial
+# testGithub
 repos for github study
